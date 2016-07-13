@@ -46,3 +46,7 @@ https://www.coursera.org/learn/machine-learning
 
 - Deep Learning Glossary with simple, brief definitions and links to more in-depth explanations
 http://www.wildml.com/deep-learning-glossary/
+
+### C++
+
+- Google Style Guide for C++ : https://google.github.io/styleguide/cppguide.html 
