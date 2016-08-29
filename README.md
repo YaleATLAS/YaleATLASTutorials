@@ -50,3 +50,5 @@ http://www.wildml.com/deep-learning-glossary/
 ### C++
 
 - Google Style Guide for C++ : https://google.github.io/styleguide/cppguide.html 
+
+For a more comprehensive list of resources and tutorials in all sorts of languages and frameworks, check out this list: https://github.com/WomenWhoCode/guidelines-resources/blob/master/learn_to_program.md
