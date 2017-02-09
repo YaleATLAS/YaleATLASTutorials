@@ -56,3 +56,11 @@ https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
 - Google Style Guide for C++ : https://google.github.io/styleguide/cppguide.html 
 
 For a more comprehensive list of resources and tutorials in all sorts of languages and frameworks, check out this list: https://github.com/WomenWhoCode/guidelines-resources/blob/master/learn_to_program.md
+
+### RooFit
+- Getting started with RooFit in ipython: [Vince Croft's intro tutorial](http://www.nikhef.nl/~vcroft/GettingStartedWithRooFit.html)
+- Basic example with RooFit in ipython: [Kyle's blog post](http://theoryandpractice.org/2014/03/roofit-statistical-modeling-language-in-ipython-notebook/#.WJuv2bYrKRs)
+- Signal & bkg composite models in ipython: [Vince Croft's in depth tutorial](http://www.nikhef.nl/~vcroft/SignalAndBackground-CompositeModels.html)
+- Another RooFit basics ipython notebook: [here](https://github.com/dedx/PyRoot/blob/master/Notebooks/RooFitBasics.ipynb)
+- Higgs analysis in ATLAS using RooStats (and more): [twiki with C++ examples](https://twiki.ppe.gla.ac.uk/bin/view/ATLAS/HiggsAnalysisAtATLASUsingRooStats)
+- 200-page RooFit presentation: [here](https://theoryl1.files.wordpress.com/2013/08/roofit-strasbourg-v10-1.pdf)
