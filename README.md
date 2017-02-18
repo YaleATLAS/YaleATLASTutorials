@@ -57,10 +57,16 @@ https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
 
 For a more comprehensive list of resources and tutorials in all sorts of languages and frameworks, check out this list: https://github.com/WomenWhoCode/guidelines-resources/blob/master/learn_to_program.md
 
-### RooFit
+### RooFit, RooStats, HistFactory
 - Getting started with RooFit in ipython: [Vince Croft's intro tutorial](http://www.nikhef.nl/~vcroft/GettingStartedWithRooFit.html)
 - Basic example with RooFit in ipython: [Kyle's blog post](http://theoryandpractice.org/2014/03/roofit-statistical-modeling-language-in-ipython-notebook/#.WJuv2bYrKRs)
 - Signal & bkg composite models in ipython: [Vince Croft's in depth tutorial](http://www.nikhef.nl/~vcroft/SignalAndBackground-CompositeModels.html)
 - Another RooFit basics ipython notebook: [here](https://github.com/dedx/PyRoot/blob/master/Notebooks/RooFitBasics.ipynb)
-- Higgs analysis in ATLAS using RooStats (and more): [twiki with C++ examples](https://twiki.ppe.gla.ac.uk/bin/view/ATLAS/HiggsAnalysisAtATLASUsingRooStats)
+- CERN academic training on likelihoods: [Statistics for Particle Physics Analyses: Introduction to Computing Examples](https://indico.cern.ch/event/545212/attachments/1378399/2094162/CERN_Statistics_Training_2016.pdf)
+- RooFit introduction: [slides](https://cernbox.cern.ch/index.php/s/kzGv4406IrpFpVM)
 - 200-page RooFit presentation: [here](https://theoryl1.files.wordpress.com/2013/08/roofit-strasbourg-v10-1.pdf)
+- RooStats (and HistFactory) introduction: [slides](https://cernbox.cern.ch/index.php/s/9DWJCObingTWB3r)
+- Quick paper on RooStats: [paper](http://inspirehep.net/record/1285866/files/jpconf14_490_012229.pdf)
+- Higgs analysis in ATLAS using RooStats (and more): [twiki with C++ examples](https://twiki.ppe.gla.ac.uk/bin/view/ATLAS/HiggsAnalysisAtATLASUsingRooStats)
+- HistFactory - A tool for creating statistical models for use with RooFit and RooStats: [paper](http://cds.cern.ch/record/1456844/files/CERN-OPEN-2012-016.pdf)
+- Kyle's HistFactory video lecture: [video](http://cds.cern.ch/record/1507618?ln=en)
