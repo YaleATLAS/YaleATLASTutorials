@@ -70,3 +70,8 @@ For a more comprehensive list of resources and tutorials in all sorts of languag
 - Higgs analysis in ATLAS using RooStats (and more): [twiki with C++ examples](https://twiki.ppe.gla.ac.uk/bin/view/ATLAS/HiggsAnalysisAtATLASUsingRooStats)
 - HistFactory - A tool for creating statistical models for use with RooFit and RooStats: [paper](http://cds.cern.ch/record/1456844/files/CERN-OPEN-2012-016.pdf)
 - Kyle's HistFactory video lecture: [video](http://cds.cern.ch/record/1507618?ln=en)
+
+### HistFitter
+- HistFitter: [main page](http://histfitter.web.cern.ch/histfitter/)
+- HistFitter tutorial outside ATLAS: [twiki](https://twiki.cern.ch/twiki/bin/view/Main/HistFitterTutorialOutsideAtlas)
+- HistFitter advanced tutorial: [twiki](https://twiki.cern.ch/twiki/bin/view/Main/HistFitterAdvancedTutorialOutsideAtlas)
