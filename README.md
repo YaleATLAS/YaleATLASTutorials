@@ -64,6 +64,7 @@ For a more comprehensive list of resources and tutorials in all sorts of languag
 - Another RooFit basics ipython notebook: [here](https://github.com/dedx/PyRoot/blob/master/Notebooks/RooFitBasics.ipynb)
 - CERN academic training on likelihoods: [Statistics for Particle Physics Analyses: Introduction to Computing Examples](https://indico.cern.ch/event/545212/attachments/1378399/2094162/CERN_Statistics_Training_2016.pdf)
 - RooFit introduction: [slides](https://cernbox.cern.ch/index.php/s/kzGv4406IrpFpVM)
+- Advanced and very helpful RooFit tutorial: [slides](http://roofit.sourceforge.net/docs/tutorial/intro/roofit_tutorial_intro.pdf)
 - 200-page RooFit presentation: [here](https://theoryl1.files.wordpress.com/2013/08/roofit-strasbourg-v10-1.pdf)
 - RooStats (and HistFactory) introduction: [slides](https://cernbox.cern.ch/index.php/s/9DWJCObingTWB3r)
 - Quick paper on RooStats: [paper](http://inspirehep.net/record/1285866/files/jpconf14_490_012229.pdf)
